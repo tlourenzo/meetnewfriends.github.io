@@ -277,6 +277,13 @@ header {
     width: 10vh;
 }
 
+.logo-image{
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -2vh;
+}
+
 header .header-content {
     position: relative;
     width: 100%;
